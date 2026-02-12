@@ -1,0 +1,4 @@
+Nombre: Fernando
+Apellido: Rodriguez
+Edad: 24
+Lenguaje Preferido: Pyhton, aunque tambien me gusta Kotlin
